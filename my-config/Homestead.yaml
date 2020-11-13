@@ -10,7 +10,7 @@ keys:
     - ~/.ssh/id_rsa
 
 folders:
-    - map: C:\Users\princess\homestead\code
+    - map: C:\Users\princess\my-workspace\code
       to: /home/vagrant/code
 
 sites:
